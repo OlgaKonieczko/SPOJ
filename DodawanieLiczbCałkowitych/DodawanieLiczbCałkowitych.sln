@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DodawanieLiczbCałkowitych", "DodawanieLiczbCałkowitych\DodawanieLiczbCałkowitych.csproj", "{E6048E12-4193-4712-A0E6-A7A28565CA9F}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E6048E12-4193-4712-A0E6-A7A28565CA9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E6048E12-4193-4712-A0E6-A7A28565CA9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E6048E12-4193-4712-A0E6-A7A28565CA9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E6048E12-4193-4712-A0E6-A7A28565CA9F}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {34B6BA32-47A6-4CB8-8F2F-A5BA1E4BA26B}
+	EndGlobalSection
+EndGlobal
