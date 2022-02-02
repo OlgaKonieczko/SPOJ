@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30204.135
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Jakala", "Jakala\Jakala.csproj", "{7931C804-3277-4804-BCE3-348CCAC15AB0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{7931C804-3277-4804-BCE3-348CCAC15AB0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7931C804-3277-4804-BCE3-348CCAC15AB0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7931C804-3277-4804-BCE3-348CCAC15AB0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7931C804-3277-4804-BCE3-348CCAC15AB0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5F77E63D-B182-4A68-8678-D7F3C22B1D56}
+	EndGlobalSection
+EndGlobal
